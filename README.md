@@ -1,3 +1,3 @@
 # Cards-bruh
 
-# Esse é o nosso primeiro projeto
+# This Is Our First Project 
